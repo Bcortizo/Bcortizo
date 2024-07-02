@@ -2,7 +2,7 @@
 - 👀 I’m interested in game development and programming, working with databases.
 - 🌱 I’m currently learning Lua + Löve2D, Python, Java, JavaScript
 - 💞️ I’m looking to collaborate on small game projects, introductory programming projects
-- 📫 How to reach me: bernardo.cortizo@gmail.com
+- 📫 How to reach me: bernardo.aguiar@ufpel.edu.br
 
 <!---
 Bcortizo/Bcortizo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
